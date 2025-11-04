@@ -1,2 +1,2 @@
 # Projetos-com-Python
-Respositório que guardarei meus codigos em Python (tanto estudos quando testes)
+Repositório que guardarei meus códigos em Python (tanto estudos quando testes)
